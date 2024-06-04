@@ -3,7 +3,7 @@ import React from 'react'
 function dev() {
   return (
     <div>
-      im zeeshan dev zeeshan
+      im  updated dev updated
     </div>
   )
 }
