@@ -4,7 +4,6 @@ function dev() {
   return (
     <div>
       im  zeeshan dve
-      login::::
     </div>
   )
 }
